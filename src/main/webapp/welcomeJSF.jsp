@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - PIPELINE DESDE DOCKER HUB 21:00pm del 24 De julio 2025" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - PIPELINE DESDE DOCKER HUB 21:pm del 24 De julio 2025" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
